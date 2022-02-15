@@ -1,0 +1,2 @@
+Link para downlod do Portugol Studio: http://lite.acad.univali.br/portugol/
+Com o Portugol Studio, os seus estudantes podem criar desde algorítmos simples até jogos completos, totalmente em português. A linguagem é baseada em C e PHP, e simplifica muitas funcionalidades gráficas e matemáticas.
